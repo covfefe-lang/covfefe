@@ -1,7 +1,7 @@
 how to covfefify a string:
 --
 
-###first, get the first sound group (made up terminology): how to do this? well:
+### first, get the first sound group (made up terminology): how to do this? well:
 
 find the first vowel (including y):
 
@@ -18,7 +18,7 @@ remove the rest of the string
 
 first sound group
 
-###next step
+### next step
 
 get the last consonant of the sound group
 
